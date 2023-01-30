@@ -13,6 +13,7 @@ div{
     border-style: solid;
 }
 div.links > a{
+    
     border-style:solid;
     border-color:red;
     padding-left: 2%;
