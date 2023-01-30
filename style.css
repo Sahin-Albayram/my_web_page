@@ -1,0 +1,23 @@
+h1{
+    color : red; 
+    font-style: italic;  
+    border: black;
+    border-width: 2px;
+    border-style: solid;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: 10%;
+    width: 60%;
+}
+div{
+    border-style: solid;
+}
+div.links > a{
+    border-style:solid;
+    border-color:red;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-left:0px;
+    margin-right: 0px;
+
+} 
